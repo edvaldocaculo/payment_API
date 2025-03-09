@@ -22,5 +22,5 @@ Payment Not Found Page
 ![Payment not found Page](/screenshots/screenshot_3.png)
 ## Contributions
 
--Edvaldo Caculo
--Rodrigo Gonçalves and Rocketseat team.
+- Edvaldo Caculo
+- Rodrigo Gonçalves and Rocketseat team.
